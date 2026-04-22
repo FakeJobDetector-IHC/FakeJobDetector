@@ -35,3 +35,4 @@ Generado: dom 14/06/2026 15:36:27.47
 2026-04-09 docs: casos de estudio de estafa por pago adelantado
 2026-04-13 docs: lista de plataformas de verificacion de empleos
 2026-04-14 docs: investigacion de canales de contacto sospechosos
+2026-04-22 docs: checklist de se├▒ales de alerta de reclutadores falsos
