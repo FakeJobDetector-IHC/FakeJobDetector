@@ -19,3 +19,7 @@ UPC - IHC y Tecnologias Moviles 202610
 ## Despliegue
 Hospedado en Netlify con despliegue automatico desde rama main.
 Repositorio: github.com/JhosBy2005/FakeJobDetector
+
+## Estado a Mayo 2026
+HTML completo, CSS finalizado, JS con todas las interacciones.
+Pausa por examenes. Retomamos 14 Jun para integracion final.
