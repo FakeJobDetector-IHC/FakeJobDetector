@@ -23,3 +23,6 @@ Repositorio: github.com/JhosBy2005/FakeJobDetector
 ## Estado a Mayo 2026
 HTML completo, CSS finalizado, JS con todas las interacciones.
 Pausa por examenes. Retomamos 14 Jun para integracion final.
+
+## v1.0 - Entrega Final
+Ciclo 202610 - IHC y Tecnologias Moviles UPC
