@@ -26,8 +26,8 @@ set "P3_ROLE=JavaScript e interacciones"
 set "P4=José Martinez"
 set "P4_EMAIL=jalonso.m.5.7@gmail.com"
 set "P4_ROLE=Investigacion y contenido"
-set "P5=Tu nombre"
-set "P5_EMAIL=tu_correo_github@example.com"
+set "P5=José Santana"
+set "P5_EMAIL=santanapromaster@gmail.com"
 set "P5_ROLE=Formularios y accesibilidad"
 
 echo Generando %REPORT_FILE%...
