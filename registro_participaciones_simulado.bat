@@ -14,15 +14,20 @@ set "COURSE=IHC y Tecnologias Moviles - ciclo 202610"
 set "REPORT_FILE=registro_participaciones_simulado.txt"
 
 REM Edita estos datos con los integrantes reales si lo necesitas.
-set "P1=Integrante 1"
+set "P1=Darnell Cuba"
+set "P1_EMAIL=darnellcuba2006@hotmail.com"
 set "P1_ROLE=HTML y estructura"
-set "P2=Integrante 2"
+set "P2=Mauricio Valverde"
+set "P2_EMAIL=mauricio.leoval@gmail.com"
 set "P2_ROLE=CSS y diseno visual"
-set "P3=Integrante 3"
+set "P3=Jimena Curi"
+set "P3_EMAIL=jimenacha.curi@gmail.com"
 set "P3_ROLE=JavaScript e interacciones"
-set "P4=Integrante 4"
+set "P4=José Martinez"
+set "P4_EMAIL=jalonso.m.5.7@gmail.com"
 set "P4_ROLE=Investigacion y contenido"
-set "P5=Integrante 5"
+set "P5=Tu nombre"
+set "P5_EMAIL=tu_correo_github@example.com"
 set "P5_ROLE=Formularios y accesibilidad"
 
 echo Generando %REPORT_FILE%...
@@ -39,11 +44,11 @@ echo Generando %REPORT_FILE%...
 >> "%REPORT_FILE%" echo.
 >> "%REPORT_FILE%" echo INTEGRANTES Y AREAS
 >> "%REPORT_FILE%" echo -------------------
->> "%REPORT_FILE%" echo - %P1%: %P1_ROLE%
->> "%REPORT_FILE%" echo - %P2%: %P2_ROLE%
->> "%REPORT_FILE%" echo - %P3%: %P3_ROLE%
->> "%REPORT_FILE%" echo - %P4%: %P4_ROLE%
->> "%REPORT_FILE%" echo - %P5%: %P5_ROLE%
+>> "%REPORT_FILE%" echo - %P1% ^<%P1_EMAIL%^>: %P1_ROLE%
+>> "%REPORT_FILE%" echo - %P2% ^<%P2_EMAIL%^>: %P2_ROLE%
+>> "%REPORT_FILE%" echo - %P3% ^<%P3_EMAIL%^>: %P3_ROLE%
+>> "%REPORT_FILE%" echo - %P4% ^<%P4_EMAIL%^>: %P4_ROLE%
+>> "%REPORT_FILE%" echo - %P5% ^<%P5_EMAIL%^>: %P5_ROLE%
 >> "%REPORT_FILE%" echo.
 >> "%REPORT_FILE%" echo DETALLE SIMULADO POR SEMANA
 >> "%REPORT_FILE%" echo ---------------------------
@@ -90,11 +95,11 @@ echo Generando %REPORT_FILE%...
 >> "%REPORT_FILE%" echo.
 >> "%REPORT_FILE%" echo RESUMEN SIMULADO POR INTEGRANTE
 >> "%REPORT_FILE%" echo -------------------------------
->> "%REPORT_FILE%" echo - %P1%: 6 participaciones simuladas
->> "%REPORT_FILE%" echo - %P2%: 6 participaciones simuladas
->> "%REPORT_FILE%" echo - %P3%: 7 participaciones simuladas
->> "%REPORT_FILE%" echo - %P4%: 5 participaciones simuladas
->> "%REPORT_FILE%" echo - %P5%: 4 participaciones simuladas
+>> "%REPORT_FILE%" echo - %P1% ^<%P1_EMAIL%^>: 6 participaciones simuladas
+>> "%REPORT_FILE%" echo - %P2% ^<%P2_EMAIL%^>: 6 participaciones simuladas
+>> "%REPORT_FILE%" echo - %P3% ^<%P3_EMAIL%^>: 7 participaciones simuladas
+>> "%REPORT_FILE%" echo - %P4% ^<%P4_EMAIL%^>: 5 participaciones simuladas
+>> "%REPORT_FILE%" echo - %P5% ^<%P5_EMAIL%^>: 4 participaciones simuladas
 >> "%REPORT_FILE%" echo.
 >> "%REPORT_FILE%" echo TOTAL: 28 participaciones simuladas
 
